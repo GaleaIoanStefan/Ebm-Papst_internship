@@ -10,5 +10,7 @@ In here we can see the main parts of the project namely the supply, a feedback c
 An Arduino Nano Esp32 microcontroller is the brain of the board, which will control the speed of the fan on the left of the schematic with a voltage switch, through a Hall speed sensor to complete a feedback loop. Similarly, on the right side, the esp32 will control the temperature of a hob with a 120W resistor with a voltage switch, and the feedback communication is done by 2 NTC thermistors
 
 
-# The main components
-In the electric schematic the most important blocks or components were the buck converter that feeds the fan, two voltage switches
+# The electrical schematic of the project
+
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/c30acb64-5ae8-48dd-8e28-fc3d2478f6e5" />
+
