@@ -14,7 +14,8 @@ The tool used in this project was KiCad 9.0
 
 # The electrical schematic of the PCB
 
-<img width="975" height="670" alt="image" src="https://github.com/user-attachments/assets/c30acb64-5ae8-48dd-8e28-fc3d2478f6e5" />
+<img width="1042" height="717" alt="image" src="https://github.com/user-attachments/assets/2d1e1317-1643-4b1e-a693-384dfb9c78a7" />
+
 
 # The layout of the PCB
 
