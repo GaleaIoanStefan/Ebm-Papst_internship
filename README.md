@@ -12,5 +12,5 @@ An Arduino Nano Esp32 microcontroller is the brain of the board, which will cont
 
 # The electrical schematic of the project
 
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/c30acb64-5ae8-48dd-8e28-fc3d2478f6e5" />
+<img width="975" height="670" alt="image" src="https://github.com/user-attachments/assets/c30acb64-5ae8-48dd-8e28-fc3d2478f6e5" />
 
