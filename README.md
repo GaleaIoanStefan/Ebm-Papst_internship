@@ -5,7 +5,9 @@ This project contains the PCB design for a equipment that measures contact heat 
 
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/1ed45e6d-66d2-4b1b-8018-75bb5fbbd8e0" />
 
-In here we can see the main parts of the project namely the supply, a feedback control loop of the ventilator and another feedback control loop of the metal plate. 
+In here we can see the main parts of the project namely the supply, a feedback control loop of the ventilator and another feedback control loop of the metal plate. Everything that is contained in the colored frame sits on the actual PCB.
+An Arduino Nano Esp32 microcontroller is the brain of the board, which will control the speed of the fan on the left of the schematic with a voltage switch, through a Hall speed sensor to complete a feedback loop. Similarly, on the right side, the esp32 will control the temperature of a hob with a 120W resistor with a voltage switch, and the feedback communication is done by 2 NTC thermistors
+
 
 # The main components
 In the electric schematic the most important blocks or components were the buck converter that feeds the fan, two voltage switches
